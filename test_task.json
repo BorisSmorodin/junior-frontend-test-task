@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Qdrant",
+    "price_per_month": "Free",
+    "category": "vector DB",
+	  "in_usage": true
+  },
+  {
+    "id": 2,
+    "name": "ChatGPT",
+    "price_per_month": "20USD",
+    "category": "LLM",
+	  "in_usage": false
+  },
+  {
+    "id": 3,
+    "name": "WizardLM",
+    "price_per_month": "Free",
+    "category": "LLM",
+	  "in_usage": true
+  },
+  {
+    "id": 4,
+    "name": "Kafka",
+    "price_per_month": "Free",
+    "category": "broker",
+	  "in_usage": false
+  },
+  {
+    "id": 5,
+    "name": "Pinecone",
+    "price_per_month": "4USD",
+    "category": "vector DB",
+	  "in_usage": false
+  },
+  {
+    "id": 6,
+    "name": "NATS",
+    "price_per_month": "Free",
+    "category": "broker",
+	  "in_usage": true
+  },
+  {
+    "id": 7,
+    "name": "OpenBuddy",
+    "price_per_month": "Free",
+    "category": "LLM",
+	  "in_usage": false
+  },
+  {
+    "id": 8,
+    "name": "Chroma",
+    "price_per_month": "Free",
+    "category": "vector DB",
+    "in_usage": false
+  },
+  {
+    "id": 9,
+    "name": "Faiss",
+    "price_per_month": "Free",
+    "category":"vector DB",
+    "in_usage": false
+  },
+  {
+    "id": 10,
+    "name": "GigaChat",
+    "price_per_month": "10USD",
+    "category": "LLM",
+    "in_usage": false
+  },
+  {
+    "id": 11,
+    "name": "YandexGPT Pro",
+    "price_per_month": "10USD",
+    "category": "LLM",
+    "in_usage": false
+  },
+  {
+    "id": 12,
+    "name": "Rabit MQ",
+    "price_per_month": "Free",
+    "category": "broker",
+    "in_usage": false
+  }
+]
